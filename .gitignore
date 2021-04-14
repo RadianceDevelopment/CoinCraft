@@ -1,4 +1,27 @@
-C:\Users\Caleb\MCreatorWorkspaces\coincraft\run
-coincraft.mcreator
-mcreator.gradle
-.mcreator
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+*.txt
+com
+
+# Files from Forge MDK
+forge*changelog.txt
